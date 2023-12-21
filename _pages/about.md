@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Undergraduate, Computer Science and Engineering</a>, VIT Chennai
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>At Cherapunjee, Shillong </p>
+    <p>Currently at Mumbai, India</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
