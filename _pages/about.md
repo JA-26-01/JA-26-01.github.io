@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hi!</p>
+    <p>At Cherapunjee, Shillong </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
