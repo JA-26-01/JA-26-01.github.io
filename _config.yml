@@ -6,7 +6,7 @@ title: Jesmine's # the website title (if blank, full name will be used instead)
 first_name: Jesmine
 middle_name: 
 last_name: Akhter
-email: you@example.com
+email: jesmineakhter.work@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jesmine Akhter's portfolio website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -71,7 +71,7 @@ github_username: JA-26-01
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: Jesmine Akhter
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
