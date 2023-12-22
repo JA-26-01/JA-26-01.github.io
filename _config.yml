@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🌼  # ❀ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ❀    # ❀ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://JA-26-01.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -71,7 +71,7 @@ github_username: JA-26-01
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: Jesmine Akhter
+linkedin_username: jesmine-akhter-3ab991247
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
