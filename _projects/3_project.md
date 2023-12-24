@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: sojourn
+description: A simple travel recommendation app
+img: assets/img/sojourn.jpg
 redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 2
+category: Machine Learning
 ---
 
 Every project has a beautiful feature showcase page.

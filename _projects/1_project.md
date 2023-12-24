@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Text-Mani
+description: A simple text-manipulation application
+img: assets/img/text-mani.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: Fun
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Better You
+description: An online journal, with integrated features of sentiment analysis and stress estimation
+img: assets/img/better-you.jpg
+importance: 1
+category: Machine Learning
 ---
 
 Every project has a beautiful feature showcase page.

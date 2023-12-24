@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: First-Today
+description: Get news all over the world at ease
+img: assets/img/first-today.jpg
+importance: 1
+category: Web-dev
 ---
 
 Every project has a beautiful feature showcase page.
