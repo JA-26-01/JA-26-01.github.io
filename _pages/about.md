@@ -25,6 +25,13 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi everyone! I am Jesmine. Welcome to my little space on the world wide web!
 
+I am a final year undergrad, majoring in computer science and engineering. I’m broadly interested in all aspects of machine learning, and particularly in probabilistic modeling, deep learning,data-driven systems and applications to life and engineering sciences, especially bioinformatics. My research is aligned along those fields. I am keen on getting involved in the area between software development and data science.
 
+Currently I am working as a Data Analyst Intern at J P Morgan Chase and Co. 
 
-If we chance to cross paths, feel free to say hi. I am not scary in all honesty.
+Random Trivia:
+In my spare time, I like to read books, paint, play my ukelele and travel with my family.
+I grew up in Agartala, India
+I can speak Korean quite well
+
+If we chance to cross paths, feel free to say hi. 

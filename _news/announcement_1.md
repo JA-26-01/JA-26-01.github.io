@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got selected as a Data Analyst Intern at J P Morgan and Chase
+I got selected as a Data Analyst Intern at J P Morgan and Chase!
