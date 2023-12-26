@@ -30,8 +30,8 @@ I am a final year undergrad, majoring in computer science and engineering. I’m
 Currently I am working as a Data Analyst Intern at J P Morgan Chase and Co. 
 
 Random Trivia:
-In my spare time, I like to read books, paint, play my ukelele and travel with my family.
-I grew up in Agartala, India
-I can speak Korean quite well
+- In my spare time, I like to read books, paint, play my ukelele and travel with my family.
+- I grew up in Agartala, India
+- I can speak Korean quite well
 
 If we chance to cross paths, feel free to say hi. 
