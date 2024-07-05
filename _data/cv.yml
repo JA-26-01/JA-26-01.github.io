@@ -82,27 +82,27 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Machine Learning.
-      items: 
-        - Bioinformatics.
-        - Security.
-     - title: Data Analytics
-      items:
-        - Risk  analytics.
-        - Process optmization.
-        - Quantitative analysis.
-    - title: Software Development.
-      items:
-        - Real-time systems.
-        - UI/UX design.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Machine Learning.
+#       # items: 
+#       #   - Bioinformatics.
+#       #   - Security.
+#      - title: Data Analytics
+#       # items:
+#       #   - Risk  analytics.
+#       #   - Process optmization.
+#       #   - Quantitative analysis.
+#     - title: Software Development.
+#       # items:
+#       #   - Real-time systems.
+#       #   - UI/UX design.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> <a href="https://in.pinterest.com/iamjesmine2001/uwu/">Painting</a>, Reading, Playing ukelele,  etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> <a href="https://in.pinterest.com/iamjesmine2001/uwu/">Painting</a>, Reading, Playing ukelele,  etc.
 
 - title: More
   type: list
