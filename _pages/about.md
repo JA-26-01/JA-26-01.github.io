@@ -23,7 +23,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi everyone! I am Jesmine. Welcome to my little space on the world wide web!
+Hi everyone! Welcome to my little space on the world wide web!
 
 I am a part of the POS Fraud Strategy Team at JPMorgan Chase & co. As a data analyst I look over ongoing fraud trends and study their impact so as too see whether there is a need of new strategies or modification to the existing ones. I recently completed my undergraduate degree, majoring in computer
 science from VIT Chennai. Taking in the change from academic to corporate right now!
