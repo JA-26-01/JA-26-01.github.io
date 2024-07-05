@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Undergraduate, Computer Science and Engineering</a>, VIT Chennai
+subtitle: <a href='#'>Data Analyst</a>, JP Morgan Chase & Co.
 
 profile:
   align: right
@@ -25,9 +25,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi everyone! I am Jesmine. Welcome to my little space on the world wide web!
 
-I am a final year undergrad, majoring in computer science and engineering. I’m broadly interested in all aspects of machine learning, and particularly in probabilistic modeling, deep learning,data-driven systems and applications to life and engineering sciences, especially bioinformatics. My research is aligned along those fields. I am keen on getting involved in the area between software development and data science.
+I am a part of the POS Fraud Strategy Team at JPMorgan Chase & co. As a data analyst I look over ongoing fraud trends and study their impact so as too see whether there is a need of new strategies or modification to the existing ones. I recently completed my undergraduate degree, majoring in computer
+science from VIT Chennai. Taking in the change from academic to corporate right now!
 
-Currently I am working as a Data Analyst Intern at J P Morgan Chase and Co. 
+ I’m broadly interested in all aspects of machine learning, and particularly in probabilistic modeling, deep learning,data-driven systems and applications to life and engineering sciences, especially bioinformatics. My research is aligned along those fields. I am keen on getting involved in the area between software development and data science.
 
 Random Trivia:
 - In my spare time, I like to read books, paint, play my ukelele and travel with my family.
